@@ -1,4 +1,6 @@
-👋 Olá, sou Marcio Fagundes!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=700&lines=Seja+bem+vindo!)](https://git.io/typing-svg)
+
+## Olá, sou Marcio Fagundes! 👋
 
 🎓 Formado em Administração e em fase de graduação em Análise e Desenvolvimento de Sistemas, estou embarcando na emocionante jornada da programação.
 
@@ -6,15 +8,6 @@
 
 🚀 Comprometido em crescer na área, estou aberto a colaborações, aprendizados e oportunidades de networking. Vamos progredir juntos!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mfag-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mfag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mfag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mfag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
 🌐 Conecte-se comigo para discutir projetos, compartilhar conhecimentos ou simplesmente para trocar ideias sobre o fascinante universo da programação.
 
 <div> 
@@ -25,3 +18,21 @@
   
 </div>
 
+## Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mfag-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mfag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mfag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mfag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+## Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+## GitHub Stats
+
+![Marcio Fagundes's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciofag&theme=tokyonight&_icons=true&hide_title=true)
