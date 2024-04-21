@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=700&lines=Seja+bem+vindo!)](https://git.io/typing-svg)
 
 ## Olá, sou Marcio Fagundes! 👋
@@ -27,6 +25,9 @@
   <img align="center" alt="Mfag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mfag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+###
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marciofag&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
   
 ## Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -35,21 +36,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-## GitHub Stats
-
-![Marcio Fagundes's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciofag&theme=transparent&bg_color=000&border_color=&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=fff&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marciofag&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=marciofag&cc=000&tc=fff&ic=fff&bc=30A3DC)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marciofag&theme=dark&border=30A3DC)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marciofag&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marciofag}/count.svg" /></p>***
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marciofag}/count.svg" /></p>
 <br></div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>****
