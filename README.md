@@ -19,7 +19,7 @@
 </div>
 
 ## Linguagens (Estudando)
-<div style="display: inline_block"><br>
+<div align="left">
   <img align="center" alt="Mfag-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mfag-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mfag-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,6 +42,7 @@
 </div>
 
 ###
+## Estatísticas Github 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=marciofag&cc=000&tc=fff&ic=fff&bc=30A3DC)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marciofag&theme=dark&border=30A3DC)](https://git.io/streak-stats)
 
