@@ -32,13 +32,13 @@
 ## Ferramentas
 <div align="left">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code">
-	<img width="40" src="https://img.icons8.com/?size=80&id=1Jl2zpR0qXAw&format=png" alt="Jupyter" title="Jupyter">
+	<img width="40" src="https://raw.githubusercontent.com/kaladabrio2020/kaladabrio2020/629a94cf39ab246cfa8bca62d4f599d97e8e21f9/icon/JupyterIcon.svg" alt="Jupyter" title="Jupyter">
 	<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" title="GitHub">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git">
 	<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" alt="Notion" title="Notion">
 	<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" alt="WordPress" title="WordPress">
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows">
 	<img width="40" src="https://img.icons8.com/?size=48&id=117561&format=png" alt="Excel" title="Excel">
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows">
 </div>
 
 ###
