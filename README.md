@@ -27,6 +27,7 @@
   <img align="center" alt="Mfag-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mfag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mfag-Java" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+  <img align="center" alt="Mfag-SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/2306/2306173.png">
 </div>
 
 ###
@@ -38,6 +39,7 @@
 	<img width="40" src="https://raw.githubusercontent.com/kaladabrio2020/kaladabrio2020/629a94cf39ab246cfa8bca62d4f599d97e8e21f9/icon/JupyterIcon.svg" alt="Jupyter" title="Jupyter">
 	<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" title="GitHub">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git">
+	<img width="40" src="https://www.pngall.com/wp-content/uploads/13/AWS-Logo-PNG-File.png" alt="AWS" title="AWS">
 	<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" alt="Notion" title="Notion">
 	<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" alt="WordPress" title="WordPress">
 	<img width="40" src="https://img.icons8.com/?size=48&id=117561&format=png" alt="Excel" title="Excel">
