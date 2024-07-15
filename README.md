@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=700&lines=Seja+bem+vindo!)](https://git.io/typing-svg)
 
+![mfag3](https://github.com/user-attachments/assets/3fa07b35-6841-413e-9b55-ecf5282ea9a0)
+
 ## Olá, sou Marcio Fagundes! 👋
 
 🎓 Formado em Administração e em fase de graduação em Análise e Desenvolvimento de Sistemas, estou embarcando na emocionante jornada da programação.
